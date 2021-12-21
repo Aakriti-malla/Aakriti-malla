@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aakriti Malla</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakriti-malla&label=Profile%20views&color=0e75b6&style=flat" alt="aakriti-malla" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
