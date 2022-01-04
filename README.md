@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakriti Malla</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakriti-malla" alt="aakriti-malla" /></a> </p>
+
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -26,6 +26,12 @@
 - [@_iaakritimalla_: Another One lets Goo!!!!Skill Badge Achieved: Deploy and Manage Cloud Environments with Google Cloud @GDSC_IGDTUW @VaniChitkara @poojagera0_0 #30DaysOfGoogleCloud ☁️🌈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb100b9363d46ce7cb107b178b38cd6181cb)
 - [@_iaakritimalla_: Bagged Another Skill Badge!Set Up and Configure a Cloud Environment in Google Cloud @GDSC_IGDTUW @VaniChitkara @poojagera0_0 #30DaysOfGoogleCloud ☁️🌈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb100c9661d26ce5ca117b118d3bc76687c6)
 <!-- TWITTER:END -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakriti-malla&show_icons=true&locale=en&layout=compact" alt="aakriti-malla" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakriti-malla&show_icons=true&locale=en" alt="aakriti-malla" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakriti-malla&" alt="aakriti-malla" /></p>
 
 ![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)
 
