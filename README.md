@@ -19,5 +19,10 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@_iaakritimalla_: Finally Completed both the tracks of #30DaysOfGoogleCloud 🥳Thank you @googlecloud for giving this opportunity to experience and learn new things.Thank you @poojagera0_0 Our Gcloud facilitator and lead @VaniChitkara for all the support. @GDSC_IGDTUW #googlecloudbadges ☁️🌈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb10089b66d26fe4cb1b7e1c8c33c36384c2)
+- [@_iaakritimalla_: Thank you #GoogleCloud for providing this great learning opportunity. I am delighted as I have completed &quot;Track 1: Cloud Engineering Track &quot; and I am all geared up for Track 2@poojagera0_0 @vanichitkara #30DaysOfGoogleCloud ☁️🌈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb100b9069d060e5c1107b158d3bc06582c7)
+- [@_iaakritimalla_: Got my 5th #GoogleCloudBadge in &quot;Build and Secure Networks in Google Cloud&quot; !!@VaniChitkara @poojagera0_0 #30DaysOfGoogleCloud ☁️🌈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb100b9166dc6ae1c71679178238cc6689cb)
+- [@_iaakritimalla_: Another One lets Goo!!!!Skill Badge Achieved: Deploy and Manage Cloud Environments with Google Cloud @GDSC_IGDTUW @VaniChitkara @poojagera0_0 #30DaysOfGoogleCloud ☁️🌈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb100b9363d46ce7cb107b178b38cd6181cb)
+- [@_iaakritimalla_: Bagged Another Skill Badge!Set Up and Configure a Cloud Environment in Google Cloud @GDSC_IGDTUW @VaniChitkara @poojagera0_0 #30DaysOfGoogleCloud ☁️🌈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb100c9661d26ce5ca117b118d3bc76687c6)
 <!-- TWITTER:END -->
 
