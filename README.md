@@ -27,5 +27,5 @@
 - [@_iaakritimalla_: Bagged Another Skill Badge!Set Up and Configure a Cloud Environment in Google Cloud @GDSC_IGDTUW @VaniChitkara @poojagera0_0 #30DaysOfGoogleCloud ☁️🌈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb100c9661d26ce5ca117b118d3bc76687c6)
 <!-- TWITTER:END -->
 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)]
+![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)
 
