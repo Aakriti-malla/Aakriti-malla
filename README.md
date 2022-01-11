@@ -20,11 +20,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@_iaakritimalla_: Do more of what makes you happy. 🌻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb1c0f9268dc69e7c21778148239c26580ca)
+- [@_iaakritimalla_: The world breaks everyone, and afterward, many are strong at the broken places. - Ernest Hemingway](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb1c0f9266d668e1cb1573178c3dc76a85c7)
+- [@khushbooverma_: It&#39;s good to be lost sometimes, you find things you weren&#39;t looking for. 🧡](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1437a7f2cae08815938375cae320ea4f2d899a2db0bd6b79d81d0e9765d06de5cb167f13823bc06189)
 - [@_iaakritimalla_: Finally Completed both the tracks of #30DaysOfGoogleCloud 🥳Thank you @googlecloud for giving this opportunity to experience and learn new things.Thank you @poojagera0_0 Our Gcloud facilitator and lead @VaniChitkara for all the support. @GDSC_IGDTUW #googlecloudbadges ☁️🌈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb10089b66d26fe4cb1b7e1c8c33c36384c2)
 - [@_iaakritimalla_: Thank you #GoogleCloud for providing this great learning opportunity. I am delighted as I have completed &quot;Track 1: Cloud Engineering Track &quot; and I am all geared up for Track 2@poojagera0_0 @vanichitkara #30DaysOfGoogleCloud ☁️🌈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb100b9069d060e5c1107b158d3bc06582c7)
-- [@_iaakritimalla_: Got my 5th #GoogleCloudBadge in &quot;Build and Secure Networks in Google Cloud&quot; !!@VaniChitkara @poojagera0_0 #30DaysOfGoogleCloud ☁️🌈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb100b9166dc6ae1c71679178238cc6689cb)
-- [@_iaakritimalla_: Another One lets Goo!!!!Skill Badge Achieved: Deploy and Manage Cloud Environments with Google Cloud @GDSC_IGDTUW @VaniChitkara @poojagera0_0 #30DaysOfGoogleCloud ☁️🌈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb100b9363d46ce7cb107b178b38cd6181cb)
-- [@_iaakritimalla_: Bagged Another Skill Badge!Set Up and Configure a Cloud Environment in Google Cloud @GDSC_IGDTUW @VaniChitkara @poojagera0_0 #30DaysOfGoogleCloud ☁️🌈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2036b3e0c9f08e0e8c8b66cbee1e9a132a9c8f2cb6e1757cdb100c9661d26ce5ca117b118d3bc76687c6)
 <!-- TWITTER:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakriti-malla&show_icons=true&locale=en&layout=compact" alt="aakriti-malla" /></p>
