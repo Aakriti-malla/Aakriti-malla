@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakriti Malla</h1>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** **Web-Development**
 
 - 📫 How to reach me **aakritimalla91@gmail.com**
 
