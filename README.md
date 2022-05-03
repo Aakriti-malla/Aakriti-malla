@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aakriti Malla</h1>
 
+<img align="right" src="https://user-images.githubusercontent.com/90200664/166243841-f5b57f73-cb6a-4011-ab53-506f630f4e64.jpg" alt="cats" width="350" />
 
 - 🌱 I’m currently learning **Flutter** and **Web-Development**
 
@@ -8,7 +9,7 @@
 
 
 
-<img align="right" src="https://user-images.githubusercontent.com/90200664/166243841-f5b57f73-cb6a-4011-ab53-506f630f4e64.jpg" alt="cats" width="400" height="400"/>
+<!-- <img align="right" src="https://user-images.githubusercontent.com/90200664/166243841-f5b57f73-cb6a-4011-ab53-506f630f4e64.jpg" alt="cats" width="400" height="400"/> -->
 
 
 
@@ -36,7 +37,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakriti-malla&show_icons=true&locale=en&layout=compact" alt="aakriti-malla" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakriti-malla&show_icons=true&locale=en" alt="aakriti-malla" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aakriti-malla&show_icons=true&locale=en" alt="aakriti-malla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakriti-malla&" alt="aakriti-malla" /></p>
 
