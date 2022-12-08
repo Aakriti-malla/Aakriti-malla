@@ -1,3 +1,5 @@
+<h1 align="center" style="border: 0">彡(✿╹◡╹) 𝘞𝘦𝘭𝘤𝘰𝘮𝘦 𝘛𝘰 𝘔𝘺 𝘎𝘪𝘵𝘏𝘶𝘣 𝘗𝘳𝘰𝘧𝘪𝘭𝘦 (｀∀´)Ψ</h1>
+
 <h1 align="center">Hi 👋, I'm Aakriti Malla</h1>
 
 <img align="right" src="https://user-images.githubusercontent.com/90200664/166243841-f5b57f73-cb6a-4011-ab53-506f630f4e64.jpg" alt="cats" width="350" />
@@ -32,7 +34,7 @@
           
  </p>
 
-
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Aakriti-malla)
 <p align="left"> <a href="https://twitter.com/iaakritimalla" target="blank"><img src="https://img.shields.io/twitter/follow/iaakritimalla?logo=twitter&style=for-the-badge" alt="iaakritimalla" /></a> </p>
 
 
