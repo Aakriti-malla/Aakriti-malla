@@ -34,15 +34,15 @@
           
  </p>
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Aakriti-malla)
+
 <p align="left"> <a href="https://twitter.com/iaakritimalla" target="blank"><img src="https://img.shields.io/twitter/follow/iaakritimalla?logo=twitter&style=for-the-badge" alt="iaakritimalla" /></a> </p>
 
 
-
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Aakriti-malla)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakriti-malla&show_icons=true&locale=en&layout=compact" alt="aakriti-malla" /></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakriti-malla&show_icons=true&locale=en" alt="aakriti-malla" /></p>
-
+<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakriti-malla&" alt="aakriti-malla" /></p>
 
 
