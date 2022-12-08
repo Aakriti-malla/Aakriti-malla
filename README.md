@@ -39,10 +39,10 @@
 
 
 ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Aakriti-malla)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakriti-malla&show_icons=true&locale=en&layout=compact" alt="aakriti-malla" /></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakriti-malla&show_icons=true&locale=en&layout=compact" alt="aakriti-malla" /></p><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakriti-malla&show_icons=true&locale=en" alt="aakriti-malla" /></p>
-<br><br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakriti-malla&" alt="aakriti-malla" /></p>
 
 
