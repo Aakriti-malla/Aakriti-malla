@@ -2,7 +2,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/90200664/166243841-f5b57f73-cb6a-4011-ab53-506f630f4e64.jpg" alt="cats" width="300" />
 
-- 🌱 I’m currently looking for Job opportunities in **Tech**
+<!-- - 🌱 I’m currently looking for Job opportunities in **Tech** -->
 - 🏆 I have recently completed my post-graduation in Master of Computer Applications (MCA) and gained valuable industry experience through a six-month internship @ MoEngage
 - 📫 How to reach me **aakritimalla91@gmail.com**  
 - 👩‍💻 Link to my ***[PORTFOLIO](https://aakriti-malla.github.io/Personal-Portfolio/)***
