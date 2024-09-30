@@ -3,7 +3,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/90200664/166243841-f5b57f73-cb6a-4011-ab53-506f630f4e64.jpg" alt="cats" width="300" />
 
 <!-- - 🌱 I’m currently looking for Job opportunities in **Tech** -->
-- 🏆 I have recently completed my post-graduation in Master of Computer Applications (MCA) and gained valuable industry experience through a six-month internship @ MoEngage
+- 🚀 I am a UI Developer with expertise in Angular and Next.js, building and maintaining high-performance web applications. I’ve contributed to four websites, implementing PWAs and Angular Signals for enhanced user experience and scalability. With strong knowledge of frontend technologies like Tailwind CSS and React, I follow Agile methodologies and leverage CI/CD pipelines for efficient development. Additionally, I have experience in backend development, using Python, Java, and MongoDB.
 - 📫 How to reach me **aakritimalla91@gmail.com**  
 - 👩‍💻 Link to my ***[PORTFOLIO](https://aakriti-malla.github.io/Personal-Portfolio/)***
 
