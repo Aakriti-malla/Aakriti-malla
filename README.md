@@ -5,7 +5,7 @@
 <!-- - 🌱 I’m currently looking for Job opportunities in **Tech** -->
 - 🚀 Front-end developer with a focus on building performant and user-friendly web applications. Experienced in Angular, Next.js, and Tailwind CSS. Passionate about optimizing code, improving SEO, and leveraging the latest web technologies. Proficient in utilizing CI/CD pipelines and Agile methodologies for efficient development.
 - 📫 How to reach me **aakritimalla91@gmail.com**  
-- 👩‍💻 Link to my ***[PORTFOLIO](https://aakriti-malla.github.io/Personal-Portfolio/)***
+- 👩‍💻 Link to my ***[PORTFOLIO](https://www.aakritimalla.in)***
 
 <!-- <img align="right" src="https://user-images.githubusercontent.com/90200664/166243841-f5b57f73-cb6a-4011-ab53-506f630f4e64.jpg" alt="cats" width="400" height="400"/> -->
 
